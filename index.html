@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tram Route Frequency</title>
+  <title>FrequencyFinder</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
@@ -15,6 +15,7 @@
       color: #1a1a18;
       padding: 2rem;
       min-height: 100vh;
+      overflow-x: hidden;
     }
     .page { max-width: 720px; margin: 0 auto; }
 
@@ -229,6 +230,7 @@
       white-space: nowrap;
       margin: 0;
       line-height: 1.1;
+      max-width: 100%;
     }
   </style>
 </head>
@@ -812,8 +814,5 @@ fetch(`${FOLDER}/manifest.json`)
 .freq-tooltip::before { display: none; }
 </style>
 
-</body>
-</html>
-</script>
 </body>
 </html>
