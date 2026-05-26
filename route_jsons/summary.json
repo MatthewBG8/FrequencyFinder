@@ -1,0 +1,2834 @@
+{
+  "1": {
+    "route_number": "1",
+    "route_colour": "B5BD00",
+    "route_destination_1": "South Melbourne Beach",
+    "route_destination_0": "East Coburg",
+    "frequency_summary": [
+      {
+        "morning": 9.5,
+        "daytime": 11,
+        "evening": 16.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 14.5,
+        "daytime": 12,
+        "evening": 19.5,
+        "day": "Saturday"
+      },
+      {
+        "morning": 20.5,
+        "daytime": 12.5,
+        "evening": 20,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 8,
+        "Median PM Peak Wait": 8
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 282,
+        "span_end": 1524,
+        "full_coverage_start": 379,
+        "full_coverage_end": 1424,
+        "span_end_n": 84,
+        "prior_span_end_n": 66,
+        "span_diff": -216,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 282,
+        "span_end": 1524,
+        "full_coverage_start": 379,
+        "full_coverage_end": 1424,
+        "span_end_n": 84,
+        "prior_span_end_n": 84,
+        "span_diff": -198,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 282,
+        "span_end": 1524,
+        "full_coverage_start": 379,
+        "full_coverage_end": 1424,
+        "span_end_n": 84,
+        "prior_span_end_n": 84,
+        "span_diff": -198,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 282,
+        "span_end": 1524,
+        "full_coverage_start": 379,
+        "full_coverage_end": 1424,
+        "span_end_n": 84,
+        "prior_span_end_n": 84,
+        "span_diff": -198,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 283,
+        "span_end": 1583,
+        "full_coverage_start": 374,
+        "full_coverage_end": 1484,
+        "span_end_n": 143,
+        "prior_span_end_n": 84,
+        "span_diff": -199,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 277,
+        "span_end": 1593,
+        "full_coverage_start": 369,
+        "full_coverage_end": 1489,
+        "span_end_n": 153,
+        "prior_span_end_n": 143,
+        "span_diff": -134,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 408,
+        "span_end": 1506,
+        "full_coverage_start": 503,
+        "full_coverage_end": 1410,
+        "span_end_n": 66,
+        "prior_span_end_n": 153,
+        "span_diff": -255,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "109": {
+    "route_number": "109",
+    "route_colour": "E87722",
+    "route_destination_1": "Port Melbourne",
+    "route_destination_0": "Box Hill",
+    "frequency_summary": [
+      {
+        "morning": 9,
+        "daytime": 10,
+        "evening": 15.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 14,
+        "daytime": 10.5,
+        "evening": 19.5,
+        "day": "Saturday"
+      },
+      {
+        "morning": 29,
+        "daytime": 12,
+        "evening": 30.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 8,
+        "Median PM Peak Wait": 8
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 287,
+        "span_end": 1541,
+        "full_coverage_start": 369,
+        "full_coverage_end": 1423,
+        "span_end_n": 101,
+        "prior_span_end_n": 82,
+        "span_diff": -205,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 287,
+        "span_end": 1541,
+        "full_coverage_start": 369,
+        "full_coverage_end": 1423,
+        "span_end_n": 101,
+        "prior_span_end_n": 101,
+        "span_diff": -186,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 287,
+        "span_end": 1541,
+        "full_coverage_start": 369,
+        "full_coverage_end": 1423,
+        "span_end_n": 101,
+        "prior_span_end_n": 101,
+        "span_diff": -186,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 287,
+        "span_end": 1541,
+        "full_coverage_start": 369,
+        "full_coverage_end": 1423,
+        "span_end_n": 101,
+        "prior_span_end_n": 101,
+        "span_diff": -186,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 287,
+        "span_end": 1620,
+        "full_coverage_start": 369,
+        "full_coverage_end": 1620,
+        "span_end_n": 218,
+        "prior_span_end_n": 101,
+        "span_diff": -186,
+        "begins_night_network": false,
+        "ends_night_network": true
+      },
+      {
+        "day": "saturday",
+        "span_start": 180,
+        "span_end": 1620,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1620,
+        "span_end_n": 218,
+        "prior_span_end_n": 218,
+        "span_diff": 85,
+        "begins_night_network": true,
+        "ends_night_network": true
+      },
+      {
+        "day": "sunday",
+        "span_start": 180,
+        "span_end": 1522,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1428,
+        "span_end_n": 82,
+        "prior_span_end_n": 218,
+        "span_diff": 85,
+        "begins_night_network": true,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "11": {
+    "route_number": "11",
+    "route_colour": "6ECEB2",
+    "route_destination_1": "Victoria Harbour Docklands",
+    "route_destination_0": "West Preston",
+    "frequency_summary": [
+      {
+        "morning": 9.5,
+        "daytime": 10,
+        "evening": 17,
+        "day": "Monday"
+      },
+      {
+        "morning": 15.5,
+        "daytime": 11,
+        "evening": 20,
+        "day": "Saturday"
+      },
+      {
+        "morning": 29.5,
+        "daytime": 12,
+        "evening": 30,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 7,
+        "Median PM Peak Wait": 7
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 321,
+        "span_end": 1492,
+        "full_coverage_start": 395,
+        "full_coverage_end": 1440,
+        "span_end_n": 52,
+        "prior_span_end_n": 42,
+        "span_diff": -279,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 321,
+        "span_end": 1492,
+        "full_coverage_start": 395,
+        "full_coverage_end": 1440,
+        "span_end_n": 52,
+        "prior_span_end_n": 52,
+        "span_diff": -269,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 321,
+        "span_end": 1492,
+        "full_coverage_start": 395,
+        "full_coverage_end": 1440,
+        "span_end_n": 52,
+        "prior_span_end_n": 52,
+        "span_diff": -269,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 321,
+        "span_end": 1492,
+        "full_coverage_start": 395,
+        "full_coverage_end": 1440,
+        "span_end_n": 52,
+        "prior_span_end_n": 52,
+        "span_diff": -269,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 321,
+        "span_end": 1550,
+        "full_coverage_start": 395,
+        "full_coverage_end": 1497,
+        "span_end_n": 110,
+        "prior_span_end_n": 52,
+        "span_diff": -269,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 325,
+        "span_end": 1561,
+        "full_coverage_start": 395,
+        "full_coverage_end": 1497,
+        "span_end_n": 121,
+        "prior_span_end_n": 110,
+        "span_diff": -215,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 417,
+        "span_end": 1482,
+        "full_coverage_start": 487,
+        "full_coverage_end": 1439,
+        "span_end_n": 42,
+        "prior_span_end_n": 121,
+        "span_diff": -296,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "12": {
+    "route_number": "12",
+    "route_colour": "007E92",
+    "route_destination_1": "Fitzroy Street - Stop 143",
+    "route_destination_0": "Victoria Gardens",
+    "frequency_summary": [
+      {
+        "morning": 7.5,
+        "daytime": 10,
+        "evening": 16,
+        "day": "Monday"
+      },
+      {
+        "morning": 14,
+        "daytime": 10.5,
+        "evening": 20.5,
+        "day": "Saturday"
+      },
+      {
+        "morning": 31.5,
+        "daytime": 12,
+        "evening": 31.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 7,
+        "Median PM Peak Wait": 8
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 310,
+        "span_end": 1513,
+        "full_coverage_start": 365,
+        "full_coverage_end": 1461,
+        "span_end_n": 73,
+        "prior_span_end_n": 61,
+        "span_diff": -249,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 310,
+        "span_end": 1513,
+        "full_coverage_start": 365,
+        "full_coverage_end": 1461,
+        "span_end_n": 73,
+        "prior_span_end_n": 73,
+        "span_diff": -237,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 310,
+        "span_end": 1513,
+        "full_coverage_start": 365,
+        "full_coverage_end": 1461,
+        "span_end_n": 73,
+        "prior_span_end_n": 73,
+        "span_diff": -237,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 310,
+        "span_end": 1513,
+        "full_coverage_start": 365,
+        "full_coverage_end": 1461,
+        "span_end_n": 73,
+        "prior_span_end_n": 73,
+        "span_diff": -237,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 310,
+        "span_end": 1579,
+        "full_coverage_start": 365,
+        "full_coverage_end": 1519,
+        "span_end_n": 139,
+        "prior_span_end_n": 73,
+        "span_diff": -237,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 311,
+        "span_end": 1573,
+        "full_coverage_start": 365,
+        "full_coverage_end": 1504,
+        "span_end_n": 133,
+        "prior_span_end_n": 139,
+        "span_diff": -172,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 396,
+        "span_end": 1501,
+        "full_coverage_start": 461,
+        "full_coverage_end": 1447,
+        "span_end_n": 61,
+        "prior_span_end_n": 133,
+        "span_diff": -263,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "16": {
+    "route_number": "16",
+    "route_colour": "FBD872",
+    "route_destination_1": "Kew",
+    "route_destination_0": "Melbourne University",
+    "frequency_summary": [
+      {
+        "morning": 11.5,
+        "daytime": 12,
+        "evening": 17.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 16,
+        "daytime": 12,
+        "evening": 18.5,
+        "day": "Saturday"
+      },
+      {
+        "morning": 27,
+        "daytime": 12,
+        "evening": 30.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 11,
+        "Median PM Peak Wait": 11
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 319,
+        "span_end": 1544,
+        "full_coverage_start": 386,
+        "full_coverage_end": 1444,
+        "span_end_n": 104,
+        "prior_span_end_n": 26,
+        "span_diff": -293,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 319,
+        "span_end": 1544,
+        "full_coverage_start": 386,
+        "full_coverage_end": 1444,
+        "span_end_n": 104,
+        "prior_span_end_n": 104,
+        "span_diff": -215,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 319,
+        "span_end": 1544,
+        "full_coverage_start": 386,
+        "full_coverage_end": 1444,
+        "span_end_n": 104,
+        "prior_span_end_n": 104,
+        "span_diff": -215,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 319,
+        "span_end": 1544,
+        "full_coverage_start": 386,
+        "full_coverage_end": 1444,
+        "span_end_n": 104,
+        "prior_span_end_n": 104,
+        "span_diff": -215,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 315,
+        "span_end": 1605,
+        "full_coverage_start": 384,
+        "full_coverage_end": 1504,
+        "span_end_n": 165,
+        "prior_span_end_n": 104,
+        "span_diff": -211,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 320,
+        "span_end": 1600,
+        "full_coverage_start": 405,
+        "full_coverage_end": 1512,
+        "span_end_n": 160,
+        "prior_span_end_n": 165,
+        "span_diff": -155,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 385,
+        "span_end": 1466,
+        "full_coverage_start": 489,
+        "full_coverage_end": 1402,
+        "span_end_n": 26,
+        "prior_span_end_n": 160,
+        "span_diff": -225,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "19": {
+    "route_number": "19",
+    "route_colour": "8A1B61",
+    "route_destination_1": "Flinders Street Station",
+    "route_destination_0": "North Coburg",
+    "frequency_summary": [
+      {
+        "morning": 7,
+        "daytime": 6,
+        "evening": 18,
+        "day": "Monday"
+      },
+      {
+        "morning": 11.5,
+        "daytime": 8,
+        "evening": 15,
+        "day": "Saturday"
+      },
+      {
+        "morning": 23.5,
+        "daytime": 8,
+        "evening": 30.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 6,
+        "Median PM Peak Wait": 5
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 305,
+        "span_end": 1508,
+        "full_coverage_start": 377,
+        "full_coverage_end": 1436,
+        "span_end_n": 68,
+        "prior_span_end_n": 67,
+        "span_diff": -238,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 305,
+        "span_end": 1508,
+        "full_coverage_start": 377,
+        "full_coverage_end": 1436,
+        "span_end_n": 68,
+        "prior_span_end_n": 68,
+        "span_diff": -237,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 305,
+        "span_end": 1508,
+        "full_coverage_start": 377,
+        "full_coverage_end": 1436,
+        "span_end_n": 68,
+        "prior_span_end_n": 68,
+        "span_diff": -237,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 305,
+        "span_end": 1508,
+        "full_coverage_start": 377,
+        "full_coverage_end": 1436,
+        "span_end_n": 68,
+        "prior_span_end_n": 68,
+        "span_diff": -237,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 305,
+        "span_end": 1620,
+        "full_coverage_start": 377,
+        "full_coverage_end": 1620,
+        "span_end_n": 210,
+        "prior_span_end_n": 68,
+        "span_diff": -237,
+        "begins_night_network": false,
+        "ends_night_network": true
+      },
+      {
+        "day": "saturday",
+        "span_start": 180,
+        "span_end": 1620,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1620,
+        "span_end_n": 210,
+        "prior_span_end_n": 210,
+        "span_diff": 61,
+        "begins_night_network": true,
+        "ends_night_network": true
+      },
+      {
+        "day": "sunday",
+        "span_start": 180,
+        "span_end": 1507,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1433,
+        "span_end_n": 67,
+        "prior_span_end_n": 210,
+        "span_diff": 61,
+        "begins_night_network": true,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "3": {
+    "route_number": "3",
+    "route_colour": "8DC8E8",
+    "route_destination_1": "East Malvern",
+    "route_destination_0": "Melbourne University",
+    "frequency_summary": [
+      {
+        "morning": 11.5,
+        "daytime": 12,
+        "evening": 17.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 15.5,
+        "daytime": 12,
+        "evening": 18,
+        "day": "Saturday"
+      },
+      {
+        "morning": 29.5,
+        "daytime": 12,
+        "evening": 30.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 11,
+        "Median PM Peak Wait": 12
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 305,
+        "span_end": 1514,
+        "full_coverage_start": 411,
+        "full_coverage_end": 1415,
+        "span_end_n": 74,
+        "prior_span_end_n": 60,
+        "span_diff": -245,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 305,
+        "span_end": 1514,
+        "full_coverage_start": 411,
+        "full_coverage_end": 1415,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -231,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 305,
+        "span_end": 1514,
+        "full_coverage_start": 411,
+        "full_coverage_end": 1415,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -231,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 305,
+        "span_end": 1514,
+        "full_coverage_start": 411,
+        "full_coverage_end": 1415,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -231,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 306,
+        "span_end": 1574,
+        "full_coverage_start": 411,
+        "full_coverage_end": 1475,
+        "span_end_n": 134,
+        "prior_span_end_n": 74,
+        "span_diff": -232,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 315,
+        "span_end": 1567,
+        "full_coverage_start": 420,
+        "full_coverage_end": 1486,
+        "span_end_n": 127,
+        "prior_span_end_n": 134,
+        "span_diff": -181,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 404,
+        "span_end": 1500,
+        "full_coverage_start": 507,
+        "full_coverage_end": 1401,
+        "span_end_n": 60,
+        "prior_span_end_n": 127,
+        "span_diff": -277,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "30": {
+    "route_number": "30",
+    "route_colour": "534F96",
+    "route_destination_1": "Central Pier Docklands",
+    "route_destination_0": "St Vincents Plaza",
+    "frequency_summary": [
+      {
+        "morning": 10,
+        "daytime": 12,
+        "evening": 18.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 21.5,
+        "daytime": 13,
+        "evening": 21,
+        "day": "Saturday"
+      },
+      {
+        "morning": 21.5,
+        "daytime": 15,
+        "evening": 29.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 10,
+        "Median PM Peak Wait": 10
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 355,
+        "span_end": 1461,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1425,
+        "span_end_n": 21,
+        "prior_span_end_n": 16,
+        "span_diff": -339,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 355,
+        "span_end": 1461,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1425,
+        "span_end_n": 21,
+        "prior_span_end_n": 21,
+        "span_diff": -334,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 355,
+        "span_end": 1461,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1425,
+        "span_end_n": 21,
+        "prior_span_end_n": 21,
+        "span_diff": -334,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 355,
+        "span_end": 1461,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1425,
+        "span_end_n": 21,
+        "prior_span_end_n": 21,
+        "span_diff": -334,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 355,
+        "span_end": 1528,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1492,
+        "span_end_n": 88,
+        "prior_span_end_n": 21,
+        "span_diff": -334,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 354,
+        "span_end": 1527,
+        "full_coverage_start": 388,
+        "full_coverage_end": 1491,
+        "span_end_n": 87,
+        "prior_span_end_n": 88,
+        "span_diff": -266,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 435,
+        "span_end": 1456,
+        "full_coverage_start": 469,
+        "full_coverage_end": 1420,
+        "span_end_n": 16,
+        "prior_span_end_n": 87,
+        "span_diff": -348,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "35": {
+    "route_number": "35",
+    "route_colour": "6B3529",
+    "route_destination_1": null,
+    "route_destination_0": "City Circle",
+    "frequency_summary": [
+      {
+        "morning": null,
+        "daytime": 12,
+        "evening": null,
+        "day": "Monday"
+      },
+      {
+        "morning": null,
+        "daytime": 12,
+        "evening": null,
+        "day": "Saturday"
+      },
+      {
+        "morning": null,
+        "daytime": 12,
+        "evening": null,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": null,
+        "Median PM Peak Wait": 12
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 579,
+        "span_end": 1066,
+        "full_coverage_start": 634,
+        "full_coverage_end": 1011,
+        "span_end_n": -374,
+        "prior_span_end_n": -374,
+        "span_diff": -953,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 579,
+        "span_end": 1066,
+        "full_coverage_start": 634,
+        "full_coverage_end": 1011,
+        "span_end_n": -374,
+        "prior_span_end_n": -374,
+        "span_diff": -953,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 579,
+        "span_end": 1066,
+        "full_coverage_start": 634,
+        "full_coverage_end": 1011,
+        "span_end_n": -374,
+        "prior_span_end_n": -374,
+        "span_diff": -953,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 579,
+        "span_end": 1066,
+        "full_coverage_start": 634,
+        "full_coverage_end": 1011,
+        "span_end_n": -374,
+        "prior_span_end_n": -374,
+        "span_diff": -953,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 579,
+        "span_end": 1066,
+        "full_coverage_start": 634,
+        "full_coverage_end": 1011,
+        "span_end_n": -374,
+        "prior_span_end_n": -374,
+        "span_diff": -953,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 579,
+        "span_end": 1066,
+        "full_coverage_start": 634,
+        "full_coverage_end": 1011,
+        "span_end_n": -374,
+        "prior_span_end_n": -374,
+        "span_diff": -953,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 579,
+        "span_end": 1066,
+        "full_coverage_start": 634,
+        "full_coverage_end": 1011,
+        "span_end_n": -374,
+        "prior_span_end_n": -374,
+        "span_diff": -953,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "48": {
+    "route_number": "48",
+    "route_colour": "333434",
+    "route_destination_1": "Victoria Harbour Docklands",
+    "route_destination_0": "North Balwyn",
+    "frequency_summary": [
+      {
+        "morning": 11.5,
+        "daytime": 10,
+        "evening": 17.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 18,
+        "daytime": 12,
+        "evening": 15,
+        "day": "Saturday"
+      },
+      {
+        "morning": 29.5,
+        "daytime": 12,
+        "evening": 30,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 8,
+        "Median PM Peak Wait": 8
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 314,
+        "span_end": 1481,
+        "full_coverage_start": 384,
+        "full_coverage_end": 1390,
+        "span_end_n": 41,
+        "prior_span_end_n": 53,
+        "span_diff": -261,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 314,
+        "span_end": 1481,
+        "full_coverage_start": 384,
+        "full_coverage_end": 1390,
+        "span_end_n": 41,
+        "prior_span_end_n": 41,
+        "span_diff": -273,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 314,
+        "span_end": 1481,
+        "full_coverage_start": 384,
+        "full_coverage_end": 1390,
+        "span_end_n": 41,
+        "prior_span_end_n": 41,
+        "span_diff": -273,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 314,
+        "span_end": 1481,
+        "full_coverage_start": 384,
+        "full_coverage_end": 1390,
+        "span_end_n": 41,
+        "prior_span_end_n": 41,
+        "span_diff": -273,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 314,
+        "span_end": 1538,
+        "full_coverage_start": 384,
+        "full_coverage_end": 1445,
+        "span_end_n": 98,
+        "prior_span_end_n": 41,
+        "span_diff": -273,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 315,
+        "span_end": 1551,
+        "full_coverage_start": 385,
+        "full_coverage_end": 1464,
+        "span_end_n": 111,
+        "prior_span_end_n": 98,
+        "span_diff": -217,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 432,
+        "span_end": 1493,
+        "full_coverage_start": 532,
+        "full_coverage_end": 1394,
+        "span_end_n": 53,
+        "prior_span_end_n": 111,
+        "span_diff": -321,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "5": {
+    "route_number": "5",
+    "route_colour": "D50032",
+    "route_destination_1": "Malvern",
+    "route_destination_0": "Melbourne University",
+    "frequency_summary": [
+      {
+        "morning": 12,
+        "daytime": 12,
+        "evening": 16.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 18,
+        "daytime": 15,
+        "evening": 18.5,
+        "day": "Saturday"
+      },
+      {
+        "morning": 31.5,
+        "daytime": 15,
+        "evening": 29,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 10,
+        "Median PM Peak Wait": 12
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 332,
+        "span_end": 1491,
+        "full_coverage_start": 417,
+        "full_coverage_end": 1407,
+        "span_end_n": 51,
+        "prior_span_end_n": 31,
+        "span_diff": -301,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 332,
+        "span_end": 1491,
+        "full_coverage_start": 417,
+        "full_coverage_end": 1407,
+        "span_end_n": 51,
+        "prior_span_end_n": 51,
+        "span_diff": -281,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 332,
+        "span_end": 1491,
+        "full_coverage_start": 417,
+        "full_coverage_end": 1407,
+        "span_end_n": 51,
+        "prior_span_end_n": 51,
+        "span_diff": -281,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 332,
+        "span_end": 1491,
+        "full_coverage_start": 417,
+        "full_coverage_end": 1407,
+        "span_end_n": 51,
+        "prior_span_end_n": 51,
+        "span_diff": -281,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 332,
+        "span_end": 1547,
+        "full_coverage_start": 417,
+        "full_coverage_end": 1465,
+        "span_end_n": 107,
+        "prior_span_end_n": 51,
+        "span_diff": -281,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 354,
+        "span_end": 1558,
+        "full_coverage_start": 439,
+        "full_coverage_end": 1470,
+        "span_end_n": 118,
+        "prior_span_end_n": 107,
+        "span_diff": -247,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 387,
+        "span_end": 1471,
+        "full_coverage_start": 469,
+        "full_coverage_end": 1388,
+        "span_end_n": 31,
+        "prior_span_end_n": 118,
+        "span_diff": -269,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "57": {
+    "route_number": "57",
+    "route_colour": "00C1D5",
+    "route_destination_1": "Flinders Street Station",
+    "route_destination_0": "West Maribyrnong",
+    "frequency_summary": [
+      {
+        "morning": 9,
+        "daytime": 8,
+        "evening": 17.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 12,
+        "daytime": 8.5,
+        "evening": 15,
+        "day": "Saturday"
+      },
+      {
+        "morning": 20,
+        "daytime": 11,
+        "evening": 27,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 7,
+        "Median PM Peak Wait": 7
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 330,
+        "span_end": 1488,
+        "full_coverage_start": 396,
+        "full_coverage_end": 1407,
+        "span_end_n": 48,
+        "prior_span_end_n": 51,
+        "span_diff": -279,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 330,
+        "span_end": 1488,
+        "full_coverage_start": 396,
+        "full_coverage_end": 1407,
+        "span_end_n": 48,
+        "prior_span_end_n": 48,
+        "span_diff": -282,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 330,
+        "span_end": 1488,
+        "full_coverage_start": 396,
+        "full_coverage_end": 1407,
+        "span_end_n": 48,
+        "prior_span_end_n": 48,
+        "span_diff": -282,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 330,
+        "span_end": 1488,
+        "full_coverage_start": 396,
+        "full_coverage_end": 1407,
+        "span_end_n": 48,
+        "prior_span_end_n": 48,
+        "span_diff": -282,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 330,
+        "span_end": 1548,
+        "full_coverage_start": 396,
+        "full_coverage_end": 1467,
+        "span_end_n": 108,
+        "prior_span_end_n": 48,
+        "span_diff": -282,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 332,
+        "span_end": 1548,
+        "full_coverage_start": 399,
+        "full_coverage_end": 1467,
+        "span_end_n": 108,
+        "prior_span_end_n": 108,
+        "span_diff": -224,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 416,
+        "span_end": 1491,
+        "full_coverage_start": 501,
+        "full_coverage_end": 1410,
+        "span_end_n": 51,
+        "prior_span_end_n": 108,
+        "span_diff": -308,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "58": {
+    "route_number": "58",
+    "route_colour": "969696",
+    "route_destination_1": "Toorak",
+    "route_destination_0": "West Coburg",
+    "frequency_summary": [
+      {
+        "morning": 7,
+        "daytime": 10,
+        "evening": 15.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 12,
+        "daytime": 10,
+        "evening": 17,
+        "day": "Saturday"
+      },
+      {
+        "morning": 18.5,
+        "daytime": 10.5,
+        "evening": 19.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 7,
+        "Median PM Peak Wait": 7
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 286,
+        "span_end": 1514,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1449,
+        "span_end_n": 74,
+        "prior_span_end_n": 58,
+        "span_diff": -228,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 286,
+        "span_end": 1514,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1449,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -212,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 286,
+        "span_end": 1514,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1449,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -212,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 286,
+        "span_end": 1514,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1449,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -212,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 286,
+        "span_end": 1574,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1509,
+        "span_end_n": 134,
+        "prior_span_end_n": 74,
+        "span_diff": -212,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 290,
+        "span_end": 1574,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1510,
+        "span_end_n": 134,
+        "prior_span_end_n": 134,
+        "span_diff": -156,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 391,
+        "span_end": 1498,
+        "full_coverage_start": 457,
+        "full_coverage_end": 1424,
+        "span_end_n": 58,
+        "prior_span_end_n": 134,
+        "span_diff": -257,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "59": {
+    "route_number": "59",
+    "route_colour": "00653A",
+    "route_destination_1": "Flinders Street Station",
+    "route_destination_0": "Airport West",
+    "frequency_summary": [
+      {
+        "morning": 9,
+        "daytime": 8,
+        "evening": 16.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 12.5,
+        "daytime": 8.5,
+        "evening": 15,
+        "day": "Saturday"
+      },
+      {
+        "morning": 26,
+        "daytime": 10,
+        "evening": 27,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 7,
+        "Median PM Peak Wait": 7
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 293,
+        "span_end": 1523,
+        "full_coverage_start": 361,
+        "full_coverage_end": 1432,
+        "span_end_n": 83,
+        "prior_span_end_n": 68,
+        "span_diff": -225,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 293,
+        "span_end": 1523,
+        "full_coverage_start": 361,
+        "full_coverage_end": 1432,
+        "span_end_n": 83,
+        "prior_span_end_n": 83,
+        "span_diff": -210,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 293,
+        "span_end": 1523,
+        "full_coverage_start": 361,
+        "full_coverage_end": 1432,
+        "span_end_n": 83,
+        "prior_span_end_n": 83,
+        "span_diff": -210,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 293,
+        "span_end": 1523,
+        "full_coverage_start": 361,
+        "full_coverage_end": 1432,
+        "span_end_n": 83,
+        "prior_span_end_n": 83,
+        "span_diff": -210,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 292,
+        "span_end": 1583,
+        "full_coverage_start": 361,
+        "full_coverage_end": 1492,
+        "span_end_n": 143,
+        "prior_span_end_n": 83,
+        "span_diff": -209,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 291,
+        "span_end": 1590,
+        "full_coverage_start": 361,
+        "full_coverage_end": 1497,
+        "span_end_n": 150,
+        "prior_span_end_n": 143,
+        "span_diff": -148,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 379,
+        "span_end": 1508,
+        "full_coverage_start": 475,
+        "full_coverage_end": 1416,
+        "span_end_n": 68,
+        "prior_span_end_n": 150,
+        "span_diff": -229,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "6": {
+    "route_number": "6",
+    "route_colour": "01426A",
+    "route_destination_1": "Glen Iris",
+    "route_destination_0": "Moreland",
+    "frequency_summary": [
+      {
+        "morning": 9,
+        "daytime": 11.5,
+        "evening": 18.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 14.5,
+        "daytime": 12,
+        "evening": 19,
+        "day": "Saturday"
+      },
+      {
+        "morning": 21,
+        "daytime": 12.5,
+        "evening": 20.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 9,
+        "Median PM Peak Wait": 8
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 302,
+        "span_end": 1514,
+        "full_coverage_start": 374,
+        "full_coverage_end": 1455,
+        "span_end_n": 74,
+        "prior_span_end_n": 73,
+        "span_diff": -229,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 302,
+        "span_end": 1514,
+        "full_coverage_start": 374,
+        "full_coverage_end": 1455,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -228,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 302,
+        "span_end": 1514,
+        "full_coverage_start": 374,
+        "full_coverage_end": 1455,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -228,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 302,
+        "span_end": 1514,
+        "full_coverage_start": 374,
+        "full_coverage_end": 1455,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -228,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 304,
+        "span_end": 1574,
+        "full_coverage_start": 374,
+        "full_coverage_end": 1514,
+        "span_end_n": 134,
+        "prior_span_end_n": 74,
+        "span_diff": -230,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 298,
+        "span_end": 1583,
+        "full_coverage_start": 368,
+        "full_coverage_end": 1511,
+        "span_end_n": 143,
+        "prior_span_end_n": 134,
+        "span_diff": -164,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 409,
+        "span_end": 1513,
+        "full_coverage_start": 519,
+        "full_coverage_end": 1414,
+        "span_end_n": 73,
+        "prior_span_end_n": 143,
+        "span_diff": -266,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "64": {
+    "route_number": "64",
+    "route_colour": "00AB8E",
+    "route_destination_1": "East Brighton",
+    "route_destination_0": "Melbourne University",
+    "frequency_summary": [
+      {
+        "morning": 11.5,
+        "daytime": 12,
+        "evening": 16.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 17.5,
+        "daytime": 15,
+        "evening": 18,
+        "day": "Saturday"
+      },
+      {
+        "morning": 29,
+        "daytime": 15,
+        "evening": 27.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 11,
+        "Median PM Peak Wait": 11
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 305,
+        "span_end": 1500,
+        "full_coverage_start": 410,
+        "full_coverage_end": 1091,
+        "span_end_n": 60,
+        "prior_span_end_n": 40,
+        "span_diff": -265,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 305,
+        "span_end": 1500,
+        "full_coverage_start": 410,
+        "full_coverage_end": 1091,
+        "span_end_n": 60,
+        "prior_span_end_n": 60,
+        "span_diff": -245,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 305,
+        "span_end": 1500,
+        "full_coverage_start": 410,
+        "full_coverage_end": 1091,
+        "span_end_n": 60,
+        "prior_span_end_n": 60,
+        "span_diff": -245,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 305,
+        "span_end": 1500,
+        "full_coverage_start": 410,
+        "full_coverage_end": 1091,
+        "span_end_n": 60,
+        "prior_span_end_n": 60,
+        "span_diff": -245,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 304,
+        "span_end": 1556,
+        "full_coverage_start": 410,
+        "full_coverage_end": 1090,
+        "span_end_n": 116,
+        "prior_span_end_n": 60,
+        "span_diff": -244,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 309,
+        "span_end": 1567,
+        "full_coverage_start": 412,
+        "full_coverage_end": 1088,
+        "span_end_n": 127,
+        "prior_span_end_n": 116,
+        "span_diff": -193,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 383,
+        "span_end": 1480,
+        "full_coverage_start": 489,
+        "full_coverage_end": 1093,
+        "span_end_n": 40,
+        "prior_span_end_n": 127,
+        "span_diff": -256,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "67": {
+    "route_number": "67",
+    "route_colour": "956C58",
+    "route_destination_1": "Carnegie",
+    "route_destination_0": "Melbourne University",
+    "frequency_summary": [
+      {
+        "morning": 12,
+        "daytime": 12,
+        "evening": 18,
+        "day": "Monday"
+      },
+      {
+        "morning": 18,
+        "daytime": 15,
+        "evening": 20.5,
+        "day": "Saturday"
+      },
+      {
+        "morning": 31,
+        "daytime": 15,
+        "evening": 30.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 11,
+        "Median PM Peak Wait": 11
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 297,
+        "span_end": 1504,
+        "full_coverage_start": 407,
+        "full_coverage_end": 1400,
+        "span_end_n": 64,
+        "prior_span_end_n": 24,
+        "span_diff": -273,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 297,
+        "span_end": 1504,
+        "full_coverage_start": 407,
+        "full_coverage_end": 1400,
+        "span_end_n": 64,
+        "prior_span_end_n": 64,
+        "span_diff": -233,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 297,
+        "span_end": 1504,
+        "full_coverage_start": 407,
+        "full_coverage_end": 1400,
+        "span_end_n": 64,
+        "prior_span_end_n": 64,
+        "span_diff": -233,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 297,
+        "span_end": 1504,
+        "full_coverage_start": 407,
+        "full_coverage_end": 1400,
+        "span_end_n": 64,
+        "prior_span_end_n": 64,
+        "span_diff": -233,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 298,
+        "span_end": 1620,
+        "full_coverage_start": 405,
+        "full_coverage_end": 1620,
+        "span_end_n": 200,
+        "prior_span_end_n": 64,
+        "span_diff": -234,
+        "begins_night_network": false,
+        "ends_night_network": true
+      },
+      {
+        "day": "saturday",
+        "span_start": 180,
+        "span_end": 1620,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1620,
+        "span_end_n": 200,
+        "prior_span_end_n": 200,
+        "span_diff": 80,
+        "begins_night_network": true,
+        "ends_night_network": true
+      },
+      {
+        "day": "sunday",
+        "span_start": 180,
+        "span_end": 1464,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1388,
+        "span_end_n": 24,
+        "prior_span_end_n": 200,
+        "span_diff": 80,
+        "begins_night_network": true,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "70": {
+    "route_number": "70",
+    "route_colour": "F59BBB",
+    "route_destination_1": "Waterfront City Docklands",
+    "route_destination_0": "Wattle Park",
+    "frequency_summary": [
+      {
+        "morning": 11,
+        "daytime": 10,
+        "evening": 17.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 17,
+        "daytime": 12,
+        "evening": 13.5,
+        "day": "Saturday"
+      },
+      {
+        "morning": 23,
+        "daytime": 12,
+        "evening": 30.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 10,
+        "Median PM Peak Wait": 10
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 290,
+        "span_end": 1500,
+        "full_coverage_start": 382,
+        "full_coverage_end": 1416,
+        "span_end_n": 60,
+        "prior_span_end_n": 64,
+        "span_diff": -226,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 290,
+        "span_end": 1500,
+        "full_coverage_start": 382,
+        "full_coverage_end": 1416,
+        "span_end_n": 60,
+        "prior_span_end_n": 60,
+        "span_diff": -230,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 290,
+        "span_end": 1500,
+        "full_coverage_start": 382,
+        "full_coverage_end": 1416,
+        "span_end_n": 60,
+        "prior_span_end_n": 60,
+        "span_diff": -230,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 290,
+        "span_end": 1500,
+        "full_coverage_start": 382,
+        "full_coverage_end": 1416,
+        "span_end_n": 60,
+        "prior_span_end_n": 60,
+        "span_diff": -230,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 290,
+        "span_end": 1564,
+        "full_coverage_start": 383,
+        "full_coverage_end": 1485,
+        "span_end_n": 124,
+        "prior_span_end_n": 60,
+        "span_diff": -230,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 291,
+        "span_end": 1570,
+        "full_coverage_start": 380,
+        "full_coverage_end": 1461,
+        "span_end_n": 130,
+        "prior_span_end_n": 124,
+        "span_diff": -167,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 412,
+        "span_end": 1504,
+        "full_coverage_start": 531,
+        "full_coverage_end": 1396,
+        "span_end_n": 64,
+        "prior_span_end_n": 130,
+        "span_diff": -282,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "72": {
+    "route_number": "72",
+    "route_colour": "9ABEAA",
+    "route_destination_1": "Camberwell",
+    "route_destination_0": "Melbourne University",
+    "frequency_summary": [
+      {
+        "morning": 11,
+        "daytime": 12,
+        "evening": 18,
+        "day": "Monday"
+      },
+      {
+        "morning": 17.5,
+        "daytime": 12,
+        "evening": 20.5,
+        "day": "Saturday"
+      },
+      {
+        "morning": 29,
+        "daytime": 12,
+        "evening": 30,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 10,
+        "Median PM Peak Wait": 10
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 311,
+        "span_end": 1518,
+        "full_coverage_start": 407,
+        "full_coverage_end": 1416,
+        "span_end_n": 78,
+        "prior_span_end_n": 77,
+        "span_diff": -234,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 311,
+        "span_end": 1518,
+        "full_coverage_start": 407,
+        "full_coverage_end": 1416,
+        "span_end_n": 78,
+        "prior_span_end_n": 78,
+        "span_diff": -233,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 311,
+        "span_end": 1518,
+        "full_coverage_start": 407,
+        "full_coverage_end": 1416,
+        "span_end_n": 78,
+        "prior_span_end_n": 78,
+        "span_diff": -233,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 311,
+        "span_end": 1518,
+        "full_coverage_start": 407,
+        "full_coverage_end": 1416,
+        "span_end_n": 78,
+        "prior_span_end_n": 78,
+        "span_diff": -233,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 311,
+        "span_end": 1574,
+        "full_coverage_start": 406,
+        "full_coverage_end": 1474,
+        "span_end_n": 134,
+        "prior_span_end_n": 78,
+        "span_diff": -233,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 327,
+        "span_end": 1579,
+        "full_coverage_start": 407,
+        "full_coverage_end": 1476,
+        "span_end_n": 139,
+        "prior_span_end_n": 134,
+        "span_diff": -193,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 402,
+        "span_end": 1517,
+        "full_coverage_start": 510,
+        "full_coverage_end": 1412,
+        "span_end_n": 77,
+        "prior_span_end_n": 139,
+        "span_diff": -263,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "75": {
+    "route_number": "75",
+    "route_colour": "00A9E0",
+    "route_destination_1": "Central Pier Docklands",
+    "route_destination_0": "Vermont South",
+    "frequency_summary": [
+      {
+        "morning": 11,
+        "daytime": 10,
+        "evening": 17,
+        "day": "Monday"
+      },
+      {
+        "morning": 18,
+        "daytime": 12,
+        "evening": 15,
+        "day": "Saturday"
+      },
+      {
+        "morning": 27.5,
+        "daytime": 12,
+        "evening": 31.5,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 10,
+        "Median PM Peak Wait": 10
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 265,
+        "span_end": 1517,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1382,
+        "span_end_n": 77,
+        "prior_span_end_n": 77,
+        "span_diff": -188,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 265,
+        "span_end": 1517,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1382,
+        "span_end_n": 77,
+        "prior_span_end_n": 77,
+        "span_diff": -188,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 265,
+        "span_end": 1517,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1382,
+        "span_end_n": 77,
+        "prior_span_end_n": 77,
+        "span_diff": -188,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 265,
+        "span_end": 1517,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1382,
+        "span_end_n": 77,
+        "prior_span_end_n": 77,
+        "span_diff": -188,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 265,
+        "span_end": 1620,
+        "full_coverage_start": 389,
+        "full_coverage_end": 1620,
+        "span_end_n": 235,
+        "prior_span_end_n": 77,
+        "span_diff": -188,
+        "begins_night_network": false,
+        "ends_night_network": true
+      },
+      {
+        "day": "saturday",
+        "span_start": 180,
+        "span_end": 1620,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1620,
+        "span_end_n": 235,
+        "prior_span_end_n": 235,
+        "span_diff": 119,
+        "begins_night_network": true,
+        "ends_night_network": true
+      },
+      {
+        "day": "sunday",
+        "span_start": 180,
+        "span_end": 1517,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1379,
+        "span_end_n": 77,
+        "prior_span_end_n": 235,
+        "span_diff": 119,
+        "begins_night_network": true,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "78": {
+    "route_number": "78",
+    "route_colour": "A0A0D6",
+    "route_destination_1": "Balaclava",
+    "route_destination_0": "North Richmond",
+    "frequency_summary": [
+      {
+        "morning": 12,
+        "daytime": 12,
+        "evening": 20.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 15,
+        "daytime": 14.5,
+        "evening": 20,
+        "day": "Saturday"
+      },
+      {
+        "morning": 29,
+        "daytime": 15,
+        "evening": 30,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 12,
+        "Median PM Peak Wait": 12
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 333,
+        "span_end": 1483,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1453,
+        "span_end_n": 43,
+        "prior_span_end_n": 19,
+        "span_diff": -314,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 333,
+        "span_end": 1483,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1453,
+        "span_end_n": 43,
+        "prior_span_end_n": 43,
+        "span_diff": -290,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 333,
+        "span_end": 1483,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1453,
+        "span_end_n": 43,
+        "prior_span_end_n": 43,
+        "span_diff": -290,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 333,
+        "span_end": 1483,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1453,
+        "span_end_n": 43,
+        "prior_span_end_n": 43,
+        "span_diff": -290,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 333,
+        "span_end": 1553,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1524,
+        "span_end_n": 113,
+        "prior_span_end_n": 43,
+        "span_diff": -290,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 333,
+        "span_end": 1555,
+        "full_coverage_start": 353,
+        "full_coverage_end": 1524,
+        "span_end_n": 115,
+        "prior_span_end_n": 113,
+        "span_diff": -220,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 436,
+        "span_end": 1459,
+        "full_coverage_start": 456,
+        "full_coverage_end": 1439,
+        "span_end_n": 19,
+        "prior_span_end_n": 115,
+        "span_diff": -321,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "82": {
+    "route_number": "82",
+    "route_colour": "D2D755",
+    "route_destination_1": "Moonee Ponds",
+    "route_destination_0": "Footscray",
+    "frequency_summary": [
+      {
+        "morning": 15.5,
+        "daytime": 15,
+        "evening": 20.5,
+        "day": "Monday"
+      },
+      {
+        "morning": 16,
+        "daytime": 15.5,
+        "evening": 20.5,
+        "day": "Saturday"
+      },
+      {
+        "morning": 31,
+        "daytime": 16,
+        "evening": 27,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 15,
+        "Median PM Peak Wait": 12
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 275,
+        "span_end": 1496,
+        "full_coverage_start": 329,
+        "full_coverage_end": 1442,
+        "span_end_n": 56,
+        "prior_span_end_n": 52,
+        "span_diff": -223,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 275,
+        "span_end": 1496,
+        "full_coverage_start": 329,
+        "full_coverage_end": 1442,
+        "span_end_n": 56,
+        "prior_span_end_n": 56,
+        "span_diff": -219,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 275,
+        "span_end": 1496,
+        "full_coverage_start": 329,
+        "full_coverage_end": 1442,
+        "span_end_n": 56,
+        "prior_span_end_n": 56,
+        "span_diff": -219,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 275,
+        "span_end": 1496,
+        "full_coverage_start": 329,
+        "full_coverage_end": 1442,
+        "span_end_n": 56,
+        "prior_span_end_n": 56,
+        "span_diff": -219,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 275,
+        "span_end": 1553,
+        "full_coverage_start": 329,
+        "full_coverage_end": 1499,
+        "span_end_n": 113,
+        "prior_span_end_n": 56,
+        "span_diff": -219,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "saturday",
+        "span_start": 304,
+        "span_end": 1554,
+        "full_coverage_start": 359,
+        "full_coverage_end": 1500,
+        "span_end_n": 114,
+        "prior_span_end_n": 113,
+        "span_diff": -191,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "sunday",
+        "span_start": 425,
+        "span_end": 1492,
+        "full_coverage_start": 479,
+        "full_coverage_end": 1439,
+        "span_end_n": 52,
+        "prior_span_end_n": 114,
+        "span_diff": -311,
+        "begins_night_network": false,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "86": {
+    "route_number": "86",
+    "route_colour": "FFB500",
+    "route_destination_1": "Waterfront City Docklands",
+    "route_destination_0": "Bundoora RMIT",
+    "frequency_summary": [
+      {
+        "morning": 8,
+        "daytime": 8,
+        "evening": 16,
+        "day": "Monday"
+      },
+      {
+        "morning": 15,
+        "daytime": 10,
+        "evening": 15,
+        "day": "Saturday"
+      },
+      {
+        "morning": 24.5,
+        "daytime": 10,
+        "evening": 28,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 8,
+        "Median PM Peak Wait": 8
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 248,
+        "span_end": 1540,
+        "full_coverage_start": 391,
+        "full_coverage_end": 1405,
+        "span_end_n": 100,
+        "prior_span_end_n": 97,
+        "span_diff": -151,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 248,
+        "span_end": 1540,
+        "full_coverage_start": 391,
+        "full_coverage_end": 1405,
+        "span_end_n": 100,
+        "prior_span_end_n": 100,
+        "span_diff": -148,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 248,
+        "span_end": 1540,
+        "full_coverage_start": 391,
+        "full_coverage_end": 1405,
+        "span_end_n": 100,
+        "prior_span_end_n": 100,
+        "span_diff": -148,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 248,
+        "span_end": 1540,
+        "full_coverage_start": 391,
+        "full_coverage_end": 1405,
+        "span_end_n": 100,
+        "prior_span_end_n": 100,
+        "span_diff": -148,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 248,
+        "span_end": 1620,
+        "full_coverage_start": 392,
+        "full_coverage_end": 1620,
+        "span_end_n": 272,
+        "prior_span_end_n": 100,
+        "span_diff": -148,
+        "begins_night_network": false,
+        "ends_night_network": true
+      },
+      {
+        "day": "saturday",
+        "span_start": 180,
+        "span_end": 1620,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1620,
+        "span_end_n": 272,
+        "prior_span_end_n": 272,
+        "span_diff": 124,
+        "begins_night_network": true,
+        "ends_night_network": true
+      },
+      {
+        "day": "sunday",
+        "span_start": 180,
+        "span_end": 1537,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1391,
+        "span_end_n": 97,
+        "prior_span_end_n": 272,
+        "span_diff": 124,
+        "begins_night_network": true,
+        "ends_night_network": false
+      }
+    ]
+  },
+  "96": {
+    "route_number": "96",
+    "route_colour": "C6007E",
+    "route_destination_1": "St Kilda Beach",
+    "route_destination_0": "East Brunswick",
+    "frequency_summary": [
+      {
+        "morning": 7.5,
+        "daytime": 8,
+        "evening": 17,
+        "day": "Monday"
+      },
+      {
+        "morning": 15,
+        "daytime": 10,
+        "evening": 15,
+        "day": "Saturday"
+      },
+      {
+        "morning": 24.5,
+        "daytime": 10,
+        "evening": 30,
+        "day": "Sunday"
+      }
+    ],
+    "peak_medians": [
+      {
+        "Median AM Peak Wait": 6,
+        "Median PM Peak Wait": 7
+      }
+    ],
+    "span_stats": [
+      {
+        "day": "monday",
+        "span_start": 282,
+        "span_end": 1514,
+        "full_coverage_start": 347,
+        "full_coverage_end": 1456,
+        "span_end_n": 74,
+        "prior_span_end_n": 60,
+        "span_diff": -222,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "tuesday",
+        "span_start": 282,
+        "span_end": 1514,
+        "full_coverage_start": 347,
+        "full_coverage_end": 1456,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -208,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "wednesday",
+        "span_start": 282,
+        "span_end": 1514,
+        "full_coverage_start": 347,
+        "full_coverage_end": 1456,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -208,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "thursday",
+        "span_start": 282,
+        "span_end": 1514,
+        "full_coverage_start": 347,
+        "full_coverage_end": 1456,
+        "span_end_n": 74,
+        "prior_span_end_n": 74,
+        "span_diff": -208,
+        "begins_night_network": false,
+        "ends_night_network": false
+      },
+      {
+        "day": "friday",
+        "span_start": 282,
+        "span_end": 1620,
+        "full_coverage_start": 347,
+        "full_coverage_end": 1620,
+        "span_end_n": 255,
+        "prior_span_end_n": 74,
+        "span_diff": -208,
+        "begins_night_network": false,
+        "ends_night_network": true
+      },
+      {
+        "day": "saturday",
+        "span_start": 180,
+        "span_end": 1620,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1620,
+        "span_end_n": 228,
+        "prior_span_end_n": 255,
+        "span_diff": 107,
+        "begins_night_network": true,
+        "ends_night_network": true
+      },
+      {
+        "day": "sunday",
+        "span_start": 180,
+        "span_end": 1500,
+        "full_coverage_start": 180,
+        "full_coverage_end": 1417,
+        "span_end_n": 60,
+        "prior_span_end_n": 228,
+        "span_diff": 80,
+        "begins_night_network": true,
+        "ends_night_network": false
+      }
+    ]
+  }
+}
